@@ -15,7 +15,19 @@ The quiver is automatically used when a player has at least 8 arrows.
 
 > **Optifine** does not match textures for tipped arrows so **whole** quiver change colour!
 
-## Recommendation mods
+### Material bows
+
+*Show everyone how epic your bow is!
+
+You can change the material of your bow.  
+Use the anvil to rename your bow from the list below:
+
+- Diamond - Diamond bow
+- gold - Golden bow
+- Iron - Iron bow
+- Netherite - Netherite bow
+
+## Recommendation Mods
 
 ### [CIT Resewn](https://modrinth.com/mod/cit-resewn)
 

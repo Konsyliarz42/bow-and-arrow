@@ -17,7 +17,7 @@ The quiver is automatically used when a player has at least 8 arrows.
 
 ### Material bows
 
-*Show everyone how epic your bow is!
+*Show everyone how epic your bow is!*
 
 You can change the material of your bow.  
 Use the anvil to rename your bow from the list below:
@@ -36,3 +36,6 @@ Use the anvil to rename your bow from the list below:
 ### [Sprite Arrows](https://modrinth.com/mod/sprite-arrows)
 
 *Renders Arrows as their Item Model, did you know that Tridents are arrows?* - from modrinth page
+
+### [RP Renames](https://modrinth.com/mod/rp-renames)
+*Shows every renamed CIT and CEM (optifine) in extra anvil menu for better usage of resource packs with renames* - from modrinth page

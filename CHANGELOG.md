@@ -7,6 +7,15 @@ and this project adheres to [Semantic Versioning](http://semver.org/).
 
 ## [Unreleased]
 
+### Added
+
+- Items:
+    - Short Bow
+    - Diamond short bow
+    - Golden short bow
+    - Iron short bow
+    - Netherite short bow
+
 ## [1.1.0] - 26.08.2023
 
 ### Added

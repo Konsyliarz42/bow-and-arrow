@@ -26,6 +26,7 @@ and this project adheres to [Semantic Versioning](http://semver.org/).
 ### Changed
 
 - File structure of CIT
+- Icon pack
 - Readme
 
 ### Fixed

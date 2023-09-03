@@ -7,6 +7,32 @@ and this project adheres to [Semantic Versioning](http://semver.org/).
 
 ## [Unreleased]
 
+### Added
+
+- Items:
+    - Diamond long bow
+    - Diamond short bow
+    - Golden long bow
+    - Golden short bow
+    - Iron long bow
+    - Iron short bow
+    - Long Bow
+    - Netherite long bow
+    - Netherite short bow
+    - Short Bow
+- Models:
+    - Long bow
+
+### Changed
+
+- File structure of CIT
+- Icon pack
+- Readme
+
+### Fixed
+
+- Weight matching textures for all bows
+
 ## [1.1.0] - 26.08.2023
 
 ### Added

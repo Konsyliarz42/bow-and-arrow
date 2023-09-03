@@ -7,6 +7,14 @@ and this project adheres to [Semantic Versioning](http://semver.org/).
 
 ## [Unreleased]
 
+### Changed
+
+- Readme
+
+### Removed
+
+- Optifine support
+
 ## [1.2.0] - 03.09.2023
 
 ### Added

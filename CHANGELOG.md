@@ -1,14 +1,30 @@
 # Change Log
 
 All notable changes to this project will be documented in this file.
- 
+
 The format is based on [Keep a Changelog](http://keepachangelog.com/)
 and this project adheres to [Semantic Versioning](http://semver.org/).
 
 ## [Unreleased]
 
+### Added
+
+- [Medieval Weapons](https://modrinth.com/mod/medievalweapons) support:
+  - Items:
+    - Diamond long bow
+    - Golden long bow
+    - Iron long bow
+    - Long Bow
+    - Netherite long bow
+
 ### Changed
 
+- Items:
+  - Diamond long bow
+  - Golden long bow
+  - Iron long bow
+  - Long Bow
+  - Netherite long bow
 - Readme
 
 ### Removed
@@ -20,18 +36,18 @@ and this project adheres to [Semantic Versioning](http://semver.org/).
 ### Added
 
 - Items:
-    - Diamond long bow
-    - Diamond short bow
-    - Golden long bow
-    - Golden short bow
-    - Iron long bow
-    - Iron short bow
-    - Long Bow
-    - Netherite long bow
-    - Netherite short bow
-    - Short Bow
+  - Diamond long bow
+  - Diamond short bow
+  - Golden long bow
+  - Golden short bow
+  - Iron long bow
+  - Iron short bow
+  - Long Bow
+  - Netherite long bow
+  - Netherite short bow
+  - Short Bow
 - Models:
-    - Long bow
+  - Long bow
 
 ### Changed
 
@@ -48,15 +64,15 @@ and this project adheres to [Semantic Versioning](http://semver.org/).
 ### Added
 
 - Items:
-    - Diamond bow
-    - Golden bow
-    - Iron bow
-    - Netherite bow
+  - Diamond bow
+  - Golden bow
+  - Iron bow
+  - Netherite bow
 
 ### Changed
 
 - Items:
-    - Bow
+  - Bow
 - Readme
 
 ## [1.0.0] - 08.08.2023
@@ -65,17 +81,22 @@ and this project adheres to [Semantic Versioning](http://semver.org/).
 
 - Changelog
 - Entities:
-    - Arrow
-    - Spectral arrow
-    - Tipped arrow
+  - Arrow
+  - Spectral arrow
+  - Tipped arrow
 - Items:
-    - Arrow
-    - Bow
-    - Quiver
-    - Spectral arrow
-    - Spectral quiver
-    - Tipped arrow
-    - Tipped quiver
+  - Arrow
+  - Bow
+  - Quiver
+  - Spectral arrow
+  - Spectral quiver
+  - Tipped arrow
+  - Tipped quiver
 - Pack icon
 - Pack metadata
 - Readme
+
+[Unreleased]: https://github.com/Konsyliarz42/bow-and-arrow/compare/1.2.0...master
+[1.2.0]: https://github.com/Konsyliarz42/bow-and-arrow/compare/1.1.0...1.2.0
+[1.1.0]: https://github.com/Konsyliarz42/bow-and-arrow/compare/1.0.0...1.1.0
+[1.0.0]: https://github.com/Konsyliarz42/bow-and-arrow/tree/1.0.0

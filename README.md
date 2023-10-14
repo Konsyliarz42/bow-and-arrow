@@ -1,27 +1,34 @@
-# Bow and arrow
+# ![bow]![arrow] Bow and arrow
 
 The default arrows and bow are very ugly.  
 So I have created a prettier version.
 
-## Additional Features
+## ![bow] Additional Features
 
 > **Optifine** is not supported since version 1.3.0 ([Why?](#why-will-optifine-not-be-supported))  
 > Only [CIT Resewn] will be **supported** and **required**!
 
-### Quiver
+### ![quiver] Quiver
 
 _If you have a lot of arrows, use quiver!_
 
 The quiver is automatically used when a player has at least 8 arrows.
 
-### Short bow
+### ![short_bow] Short bow
 
 _Not just for kids!_
 
 A new type of bow inspired by Minecraft Dungeons.  
 Add "short bow" to the bow name to get a small weapon.
 
-### Long bow
+### ![recurve_bow] Recurve bow
+
+_What a style!_
+
+A new type of bow developed for [MedievalWeapons].  
+Add "recurve bow" to the bow name to get this elegant weapon.
+
+### ![long_bow] Long bow
 
 _When you need something bigger!_
 
@@ -33,28 +40,18 @@ Add "long bow to the name of the bow to get this large piece of wood.
 _Show everyone how epic your bow is!_
 
 You can change the material of your bow.  
-Use the anvil to rename your bow from the list below:
+Use the anvil to rename your bow with material(_header_) and bow type(_first column_):
 
-- Diamond:
-  - Diamond short bow
-  - Diamond bow
-  - Diamond long bow
-- Gold:
-  - Golden short bow
-  - Golden bow
-  - Golden long bow
-- Iron:
-  - Iron short bow
-  - Iron bow
-  - Iron long bow
-- Netherite:
-  - Netherite short bow
-  - Netherite bow
-  - Netherite long bow
+|             |                | Iron                | Golden                | Diamond                | Netherite                |
+| ----------- | -------------- | ------------------- | --------------------- | ---------------------- | ------------------------ |
+| Bow         | ![bow]         | ![iron_bow]         | ![golden_bow]         | ![diamond_bow]         | ![netherite_bow]         |
+| Long bow    | ![long_bow]    | ![iron_long_bow]    | ![golden_long_bow]    | ![diamond_long_bow]    | ![netherite_long_bow]    |
+| Recurve bow | ![recurve_bow] | ![iron_recurve_bow] | ![golden_recurve_bow] | ![diamond_recurve_bow] | ![netherite_recurve_bow] |
+| Short bow   | ![short_bow]   | ![iron_short_bow]   | ![golden_short_bow]   | ![diamond_short_bow]   | ![netherite_short_bow]   |
 
 ## Supported Mods
 
-- [MedievalWeapons](https://modrinth.com/mod/medievalweapons)
+- [MedievalWeapons]
 
 ## Recommendation Mods
 
@@ -83,3 +80,29 @@ I have tested the package with all versions from 1.18.2 to 1.20.1 and they work.
 The other versions have not been tested.
 
 [CIT Resewn]: https://modrinth.com/mod/cit-resewn
+[MedievalWeapons]: https://modrinth.com/mod/medievalweapons
+
+<!-- images -->
+
+[arrow]: docs\images\arrow.png
+[bow]: docs\images\bow.png
+[diamond_bow]: docs\images\diamond_bow.png
+[diamond_long_bow]: docs\images\diamond_long_bow.png
+[diamond_recurve_bow]: docs\images\diamond_recurve_bow.png
+[diamond_short_bow]: docs\images\diamond_short_bow.png
+[golden_bow]: docs\images\golden_bow.png
+[golden_long_bow]: docs\images\golden_long_bow.png
+[golden_recurve_bow]: docs\images\golden_recurve_bow.png
+[golden_short_bow]: docs\images\golden_short_bow.png
+[iron_bow]: docs\images\iron_bow.png
+[iron_long_bow]: docs\images\iron_long_bow.png
+[iron_recurve_bow]: docs\images\iron_recurve_bow.png
+[iron_short_bow]: docs\images\iron_short_bow.png
+[long_bow]: docs\images\long_bow.png
+[netherite_bow]: docs\images\netherite_bow.png
+[netherite_long_bow]: docs\images\netherite_long_bow.png
+[netherite_recurve_bow]: docs\images\netherite_recurve_bow.png
+[netherite_short_bow]: docs\images\netherite_short_bow.png
+[quiver]: docs\images\quiver.png
+[recurve_bow]: docs\images\recurve_bow.png
+[short_bow]: docs\images\short_bow.png

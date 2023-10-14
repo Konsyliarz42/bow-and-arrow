@@ -12,10 +12,21 @@ and this project adheres to [Semantic Versioning](http://semver.org/).
 - [Medieval Weapons](https://modrinth.com/mod/medievalweapons) support:
   - Items:
     - Diamond long bow
+    - Diamond recurve bow
     - Golden long bow
+    - Golden recurve bow
     - Iron long bow
+    - Iron recurve bow
     - Long Bow
     - Netherite long bow
+    - Netherite recurve bow
+    - Recurve Bow
+- Items:
+  - Diamond recurve bow
+  - Golden recurve bow
+  - Iron recurve bow
+  - Netherite recurve bow
+  - Recurve Bow
 
 ### Changed
 

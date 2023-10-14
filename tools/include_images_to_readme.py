@@ -4,7 +4,7 @@ readme_file = Path("README.md")
 image_files = Path("docs/images").glob("*.png")
 separator = "<!-- images -->"
 
-images = [f"[{file.stem}]: {str(file)}" for file in image_files] + [""]
+images = ["[{}]: {}".format(file.stem, str(file).replace("\\", "/")) for file in image_files] + [""]
 
 text = readme_file.read_text()
 text, _ = text.split(separator)

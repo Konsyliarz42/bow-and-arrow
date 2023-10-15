@@ -68,9 +68,9 @@ _Shows every renamed CIT and CEM (optifine) in extra anvil menu for better usage
 
 ## FAQ
 
-### Why will OptiFine not be supported?
+### Why OptiFine is not supported?
 
-Optifine has a lot of bugs and many features don't work, for example tip quivers or long bows.
+Optifine has a lot of bugs and many features don't work, for example tiped quivers or long bows.
 If you really want to work with optifine, go ahead and create a pull request with fixes for my package.
 
 ### Which versions of Minecraft work with this resource pack?

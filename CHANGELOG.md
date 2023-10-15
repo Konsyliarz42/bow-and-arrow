@@ -110,7 +110,7 @@ and this project adheres to [Semantic Versioning](http://semver.org/).
 - Readme
 
 [Unreleased]: https://github.com/Konsyliarz42/bow-and-arrow/compare/1.3.0...master
-[1.2.0]: https://github.com/Konsyliarz42/bow-and-arrow/compare/1.2.0...1.3.0
+[1.3.0]: https://github.com/Konsyliarz42/bow-and-arrow/compare/1.2.0...1.3.0
 [1.2.0]: https://github.com/Konsyliarz42/bow-and-arrow/compare/1.1.0...1.2.0
 [1.1.0]: https://github.com/Konsyliarz42/bow-and-arrow/compare/1.0.0...1.1.0
 [1.0.0]: https://github.com/Konsyliarz42/bow-and-arrow/tree/1.0.0

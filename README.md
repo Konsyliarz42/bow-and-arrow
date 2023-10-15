@@ -5,8 +5,7 @@ So I have created a prettier version.
 
 ## ![bow] Additional Features
 
-> **Optifine** is not supported since version 1.3.0 ([Why?](#why-will-optifine-not-be-supported))  
-> Only [CIT Resewn] will be **supported** and **required**!
+> [CIT Resewn] **required**!
 
 ### ![quiver] Quiver
 
@@ -59,11 +58,11 @@ Use the anvil to rename your bow with material(_header_) and bow type(_first col
 
 _Re-implements MCPatcher's CIT (custom item textures from optifine resource packs)_ - from modrith page
 
-### [Sprite Arrows](https://modrinth.com/mod/sprite-arrows)
+### [Sprite Arrows]
 
 _Renders Arrows as their Item Model, did you know that Tridents are arrows?_ - from modrinth page
 
-### [RP Renames](https://modrinth.com/mod/rp-renames)
+### [RP Renames]
 
 _Shows every renamed CIT and CEM (optifine) in extra anvil menu for better usage of resource packs with renames_ - from modrinth page
 
@@ -79,10 +78,15 @@ If you really want to work with optifine, go ahead and create a pull request wit
 I have tested the package with all versions from 1.18.2 to 1.20.1 and they work.
 The other versions have not been tested.
 
+<!-- Links -->
+
 [CIT Resewn]: https://modrinth.com/mod/cit-resewn
+[Sprite Arrows]: https://modrinth.com/mod/sprite-arrows
+[RP Renames]: https://modrinth.com/mod/rp-renames
 [MedievalWeapons]: https://modrinth.com/mod/medievalweapons
 
 <!-- images -->
+
 [arrow]: docs/images/arrow.png
 [bow]: docs/images/bow.png
 [diamond_bow]: docs/images/diamond_bow.png

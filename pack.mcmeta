@@ -1,6 +1,6 @@
 {
   "pack": {
-    "description": "Pretty bow and arrows."
+    "description": "Pretty bow and arrows.",
     "pack_format": 34,
     "supported_formats": { "min_inclusive": 8, "max_inclusive": 34 }
   }

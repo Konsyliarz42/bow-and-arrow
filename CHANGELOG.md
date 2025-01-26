@@ -7,6 +7,17 @@ and this project adheres to [Semantic Versioning](http://semver.org/).
 
 ## [Unreleased]
 
+## [1.3.2] - 26.01.2025
+
+### Added
+
+- `supported_formats` key to `pack.mcmeta`
+
+### Changed
+
+- Pack format for minecraft version 1.21.1
+- Update `README.md`
+
 ## [1.3.1] - 30.03.2024
 
 ### Changed
@@ -115,7 +126,8 @@ and this project adheres to [Semantic Versioning](http://semver.org/).
 - Pack metadata
 - Readme
 
-[Unreleased]: https://github.com/Konsyliarz42/bow-and-arrow/compare/1.3.1...master
+[Unreleased]: https://github.com/Konsyliarz42/bow-and-arrow/compare/1.3.2...master
+[1.3.2]: https://github.com/Konsyliarz42/bow-and-arrow/compare/1.3.1...1.3.2
 [1.3.1]: https://github.com/Konsyliarz42/bow-and-arrow/compare/1.3.0...1.3.1
 [1.3.0]: https://github.com/Konsyliarz42/bow-and-arrow/compare/1.2.0...1.3.0
 [1.2.0]: https://github.com/Konsyliarz42/bow-and-arrow/compare/1.1.0...1.2.0

@@ -75,7 +75,7 @@ If you really want to work with optifine, go ahead and create a pull request wit
 
 ### Which versions of Minecraft work with this resource pack?
 
-I have tested the package with all versions from 1.18.2 to 1.20.1 and they work.
+I have tested the package with all versions from 1.18.2 to 1.21.1 and they work.
 The other versions have not been tested.
 
 <!-- Links -->

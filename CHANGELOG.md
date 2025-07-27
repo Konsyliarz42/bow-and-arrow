@@ -18,6 +18,13 @@ and this project adheres to [Semantic Versioning](http://semver.org/).
     - Bow with spectral arrow
     - Bow with tipped arrow
 
+## [1.3.3] - 26.07.2025
+
+### Changed
+
+- Supported formats to minecraft version 1.21.8
+- Pack icon
+
 ## [1.3.2] - 26.01.2025
 
 ### Added

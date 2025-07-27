@@ -51,6 +51,8 @@ Use the anvil to rename your bow with material(_header_) and bow type(_first col
 ## Supported Mods
 
 - [MedievalWeapons]
+- [Real Arrow Tip]
+  > Without [additional features](#bow-additional-features). I don't know why it's not working.
 
 ## Recommendation Mods
 
@@ -84,6 +86,7 @@ The other versions have not been tested.
 [Sprite Arrows]: https://modrinth.com/mod/sprite-arrows
 [RP Renames]: https://modrinth.com/mod/rp-renames
 [MedievalWeapons]: https://modrinth.com/mod/medievalweapons
+[Real Arrow Tip]: https://modrinth.com/mod/real-arrow-tip
 
 <!-- images -->
 

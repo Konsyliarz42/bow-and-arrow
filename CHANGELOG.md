@@ -7,6 +7,17 @@ and this project adheres to [Semantic Versioning](http://semver.org/).
 
 ## [Unreleased]
 
+## [1.4.0] - 27.07.2025
+
+### Added
+
+- [Real Arrow Tip](https://modrinth.com/mod/real-arrow-tip) support:
+  - Entities:
+    - Tipped arrow head
+  - Items:
+    - Bow with spectral arrow
+    - Bow with tipped arrow
+
 ## [1.3.3] - 26.07.2025
 
 ### Changed
@@ -133,7 +144,9 @@ and this project adheres to [Semantic Versioning](http://semver.org/).
 - Pack metadata
 - Readme
 
-[Unreleased]: https://github.com/Konsyliarz42/bow-and-arrow/compare/1.3.2...master
+[Unreleased]: https://github.com/Konsyliarz42/bow-and-arrow/compare/1.4.0...master
+[1.4.0]: https://github.com/Konsyliarz42/bow-and-arrow/compare/1.3.3...1.4.0
+[1.3.3]: https://github.com/Konsyliarz42/bow-and-arrow/compare/1.3.2...1.3.3
 [1.3.2]: https://github.com/Konsyliarz42/bow-and-arrow/compare/1.3.1...1.3.2
 [1.3.1]: https://github.com/Konsyliarz42/bow-and-arrow/compare/1.3.0...1.3.1
 [1.3.0]: https://github.com/Konsyliarz42/bow-and-arrow/compare/1.2.0...1.3.0

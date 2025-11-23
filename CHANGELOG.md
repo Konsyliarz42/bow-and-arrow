@@ -7,6 +7,31 @@ and this project adheres to [Semantic Versioning](http://semver.org/).
 
 ## [Unreleased]
 
+### Added
+
+- Models:
+  - Bow
+
+### Changed
+
+- Readme
+- Gallery images
+- Items:
+  - Arrow
+  - Bow
+  - Spectral arrow
+  - Tipped arrow
+- Entities:
+  - Arrow
+  - Spectral arrow
+  - Tipped arrow
+
+### Removed
+
+- [Real Arrow Tip](https://modrinth.com/mod/real-arrow-tip) support
+- [Medieval Weapons](https://modrinth.com/mod/medievalweapons) support
+- All additional features
+
 ## [1.4.0] - 27.07.2025
 
 ### Added

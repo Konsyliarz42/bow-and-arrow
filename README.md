@@ -3,9 +3,17 @@
 The default arrows and bow are very ugly. \
 So I have created a prettier version.
 
-## Version 2.0.0
+## Additional features
 
-All textures have been redesigned, so all additional features have been **removed** and will (probably) be added back soon.
+> **Important** \
+> [CIT Resewn](https://modrinth.com/mod/cit-resewn) is required.
+
+### ![quiver] Quiver
+
+_If you have a lot of arrows, use quiver!_
+
+The quiver is automatically used when a player has at least 16 arrows. \
+Each type of arrows has its own texture.
 
 ## FAQ
 
@@ -18,7 +26,13 @@ The other versions have not been tested.
 
 I have no plans for it.
 
+### Why were the old additional features removed?
+
+Since version 2.0.0, I have prepared a new bow model \
+and do not have time to prepare fixes for all variants.
+
 <!-- images -->
 
 [bow]: docs/images/bow.png
 [arrow]: docs/images/arrow.png
+[quiver]: docs/images/quiver.png

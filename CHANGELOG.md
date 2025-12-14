@@ -7,6 +7,15 @@ and this project adheres to [Semantic Versioning](http://semver.org/).
 
 ## [Unreleased]
 
+## [2.1.0] - 14.12.2025
+
+### Added
+
+- Items:
+  - Quiver
+  - Spectral quiver
+  - Tipped quiver
+
 ## [2.0.0] - 23.11.2025
 
 ### Added
@@ -172,7 +181,8 @@ and this project adheres to [Semantic Versioning](http://semver.org/).
 - Pack metadata
 - Readme
 
-[Unreleased]: https://github.com/Konsyliarz42/bow-and-arrow/compare/2.0.0...master
+[Unreleased]: https://github.com/Konsyliarz42/bow-and-arrow/compare/2.1.0...master
+[2.1.0]: https://github.com/Konsyliarz42/bow-and-arrow/compare/2.0.0...2.1.0
 [2.0.0]: https://github.com/Konsyliarz42/bow-and-arrow/compare/1.4.0...2.0.0
 [1.4.0]: https://github.com/Konsyliarz42/bow-and-arrow/compare/1.3.3...1.4.0
 [1.3.3]: https://github.com/Konsyliarz42/bow-and-arrow/compare/1.3.2...1.3.3

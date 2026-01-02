@@ -15,6 +15,13 @@ _If you have a lot of arrows, use quiver!_
 The quiver is automatically used when a player has at least 16 arrows. \
 Each type of arrows has its own texture.
 
+### ![short_bow] Short bow
+
+_Not just for kids!_
+
+A new type of bow inspired by Minecraft Dungeons. \
+Add "short bow" to the bow name to get a small weapon.
+
 ## FAQ
 
 ### Which versions of Minecraft work with this resource pack?
@@ -36,3 +43,4 @@ and do not have time to prepare fixes for all variants.
 [bow]: docs/images/bow.png
 [arrow]: docs/images/arrow.png
 [quiver]: docs/images/quiver.png
+[short_bow]: docs/images/short_bow.png

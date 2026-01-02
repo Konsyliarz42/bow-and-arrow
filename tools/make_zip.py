@@ -25,7 +25,7 @@ def create_zip_file(zip_name: str, zip_content: list[Path]) -> None:
 
 
 if __name__ == "__main__":
-    print("Create a new zip file")
+    print("Create a new zip file", flush=False)
     check_required_files(ZIP_FILES)
 
     version = input("Version: ")

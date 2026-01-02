@@ -7,6 +7,21 @@ and this project adheres to [Semantic Versioning](http://semver.org/).
 
 ## [Unreleased]
 
+## [2.2.0] - 02.01.2026
+
+### Added
+
+- Items:
+  - Short bow
+  
+## Changed
+
+- File structure
+  
+## Removed
+
+- Optifine support
+
 ## [2.1.0] - 14.12.2025
 
 ### Added
@@ -181,7 +196,8 @@ and this project adheres to [Semantic Versioning](http://semver.org/).
 - Pack metadata
 - Readme
 
-[Unreleased]: https://github.com/Konsyliarz42/bow-and-arrow/compare/2.1.0...master
+[Unreleased]: https://github.com/Konsyliarz42/bow-and-arrow/compare/2.2.0...master
+[2.2.0]: https://github.com/Konsyliarz42/bow-and-arrow/compare/2.1.0...2.2.0
 [2.1.0]: https://github.com/Konsyliarz42/bow-and-arrow/compare/2.0.0...2.1.0
 [2.0.0]: https://github.com/Konsyliarz42/bow-and-arrow/compare/1.4.0...2.0.0
 [1.4.0]: https://github.com/Konsyliarz42/bow-and-arrow/compare/1.3.3...1.4.0
